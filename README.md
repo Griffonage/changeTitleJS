@@ -9,7 +9,7 @@
 ### First, include changeTitle.js in your site:
 
 ```javascript
-<script src="https://turbo.github.io/js/turbo.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Griffonage/changeTitleJS/changeTitleJS.js"></script>
 ```
 
 ### Second,call the following function:
