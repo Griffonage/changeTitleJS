@@ -8,8 +8,8 @@
 
 ### First, include changeTitle.js in your site:
 
-```javascript
-<script src="https://cdn.jsdelivr.net/gh/Griffonage/changeTitleJS/changeTitleJS.js"></script>
+```html
+<script src="https://file.ajungle.cn/baidu/changeTitleJS.js"></script>
 ```
 
 ### Second,call the following function:
