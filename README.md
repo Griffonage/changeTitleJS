@@ -20,7 +20,7 @@ changeFocusWeb(
 				"https://file.ajungle.cn/img/hashiqi.png",
 				"被你发现了",
 				"https://file.ajungle.cn/img/cry.png",
-				"https://nv.ajungle.cn/images/favicon.png",
+				"https://file.ajungle.cn/img/favicon.png",
 				true,
 				1000,
 				5000
